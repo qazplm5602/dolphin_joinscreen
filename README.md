@@ -11,7 +11,6 @@ https://cdn.discordapp.com/attachments/904016809668247603/918488416201613352/fec
 
 ## 안내사항
 - 본 디자인은 [PUBG: BATTLEGROUNDS](https://battlegrounds.pubg.com) 게임의 디자인을 참고하여 제작하였습니다.
-- 이 **CSS** 코드언어는 **dolphin_battleground** 의 리소스 일부분을 사용하여 제작되었습니다.
 
 ###### Made By / 수콩#1115
 🐬 Dolphin Server (__**Korea Server No.1**__) <a href="https://discord.gg/dolp" target="_blank"><img src="https://img.shields.io/badge/Dolphin Discord-5865F2?style=flat-square&logo=Discord&logoColor=FFF"/></a>
